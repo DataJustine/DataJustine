@@ -1,8 +1,8 @@
 ## About Me
 
-I bring a rare combination of accounting expertise and emerging data science skills. After years spent auditing systems, improving processes, and ensuring data accuracy, I’m now applying that foundation to Python, SQL, and statistical modeling.
+I bring a rare combination of accounting expertise and emerging data science skills. After years spent auditing systems, managing teams, improving processes, and ensuring data accuracy, I’m now applying that foundation to Python, SQL, and business analytics.
 
-I am planning projects highlight my transition into analytics engineering—focusing on ETL pipelines, data cleaning, and automated reporting built for reliability and scale.
+I am planning projects to highlight my transition into analytics engineering. Focusing on ETL pipelines, data cleaning, and automated reporting built for reliability and scale.
 
 ## Projects
 In-progress....
