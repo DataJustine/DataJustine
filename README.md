@@ -5,7 +5,7 @@ I bring a rare combination of accounting expertise and emerging data science ski
 I am planning projects to highlight my transition into analytics engineering. Focusing on ETL pipelines, data cleaning, and automated reporting built for reliability and scale.
 
 ## Projects
-In-progress....
+[Financial Transaction ETL Pipeline](https://github.com/DataJustine/Financial-Transaction-ETL)
 
 ## Certifications
 - Master's Degree Data Science
